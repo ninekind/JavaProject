@@ -1,0 +1,4 @@
+interface Fighter {
+  
+  void fight();
+}
